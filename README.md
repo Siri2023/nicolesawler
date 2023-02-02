@@ -1,11 +1,5 @@
-- 👋 Hi, I’m @nicolesawler
-- 👀 I’m interested in ... -all things internet-
-- 🌱 I’m currently learning ... -data mining-
-- 💞️ I’m looking to collaborate on ... -cryptokingdom-
-- 📫 How to reach me ... -nicolesawler@gmail.com-
-
-<!---
-nicolesawler/nicolesawler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+- 👋👋 Hi, I’m @Nesrinearfaoui
+- 👀 I’m interested in ... -💞️good food and music💞️-
+- 🌱 I’m currently learning ... -web developing-
+- 💞️ I’m looking to collaborate on ... -any project that can help me grow professionally -
+- 📫 📫How to reach me ...👀 -arfaouinesrine99@gmail.com-
